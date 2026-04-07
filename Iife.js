@@ -1,0 +1,1 @@
+((item) => console.log(item * 2))(3)
